@@ -9,11 +9,19 @@
 .chatInput >form >input{
     position: fixed;
     bottom: 30px;
-    width: 60%;
+    /* top: 80vh; */
+    width: 50%;
     border: 1px solid gray;
     border-radius: 3px;
     padding: 20px;
 }
 .chatInput >form >button{
     display: none !important;
+}
+
+@media screen and (max-width: 480px) {
+    .chatInput >form >input{
+        bottom: 10px;
+        top: 90vh;
+    }
 }
