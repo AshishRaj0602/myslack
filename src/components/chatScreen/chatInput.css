@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 480px) {
     .chatInput >form >input{
-        bottom: 10px;
-        top: 90vh;
+        bottom: 10vh;
+        top: 85vh;
     }
 }
