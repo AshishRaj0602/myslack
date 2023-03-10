@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myslack/static/css/main.cf60e165.css",
+    "main.js": "/myslack/static/js/main.83808cf8.js",
+    "static/js/787.d3befce1.chunk.js": "/myslack/static/js/787.d3befce1.chunk.js",
+    "index.html": "/myslack/index.html",
+    "main.cf60e165.css.map": "/myslack/static/css/main.cf60e165.css.map",
+    "main.83808cf8.js.map": "/myslack/static/js/main.83808cf8.js.map",
+    "787.d3befce1.chunk.js.map": "/myslack/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf60e165.css",
+    "static/js/main.83808cf8.js"
+  ]
+}
